@@ -1,6 +1,5 @@
 # go-demo
 hello my name is govind.
 
-#chutiya
+# constant 
 sahi baate ha
-
